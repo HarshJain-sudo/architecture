@@ -21,9 +21,6 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 ]
 
-def is_prime_number(number: int) -> bool:
-    pass
-
 
 
 
